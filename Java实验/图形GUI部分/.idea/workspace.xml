@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/fleschier/GUI_01.java" line="8" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bda28184-0951-4f16-93b7-cdc9f9b8b56a" name="Default" comment="" />
+    <list default="true" id="bda28184-0951-4f16-93b7-cdc9f9b8b56a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fleschier/GUI_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fleschier/GUI_01.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,23 +23,27 @@
       <file leaf-file-name="GUI_01.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/fleschier/GUI_01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="557">
+              <caret line="224" column="8" selection-start-line="224" selection-start-column="8" selection-end-line="224" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#placeComponents#0;class#GUI_01#0" />
-                <element signature="e#1999#2000#0" expanded="true" />
-                <element signature="e#2046#2047#0" expanded="true" />
+                <element signature="method#choiceSetUp#0;class#GUI_01#0" />
+                <element signature="e#4371#4372#0" expanded="true" />
+                <element signature="e#4429#4430#0" expanded="true" />
+                <element signature="method#commonSetUp#0;class#GUI_01#0" />
+                <element signature="e#6426#6427#0" expanded="true" />
+                <element signature="e#6496#6497#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Window.class" pinned="false" current-in-tab="false">
-        <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.desktop/java/awt/Window.class">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fleschier/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="363" lean-forward="true" selection-start-line="363" selection-end-line="363" />
+            <state relative-caret-position="540">
+              <caret line="99" column="35" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -78,9 +90,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,6 +117,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="fleschier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="图形GUI部分" type="b2602c69:ProjectViewProjectNode" />
+              <item name="图形GUI部分" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fleschier" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -207,12 +227,14 @@
       <workItem from="1528867991135" duration="1205000" />
       <workItem from="1528870335628" duration="3289000" />
       <workItem from="1528885202158" duration="663000" />
-      <workItem from="1528893595526" duration="1977000" />
+      <workItem from="1528893595526" duration="5940000" />
+      <workItem from="1528947255783" duration="4205000" />
+      <workItem from="1528961201731" duration="3767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7134000" />
+    <option name="totallyTimeSpent" value="19069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -220,7 +242,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3290735" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -228,18 +250,18 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13631523" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17252396" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1453125" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -257,13 +279,58 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/fleschier/GUI_01.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#placeComponents#0;class#GUI_01#0" />
+            <element signature="method#choiceSetUp#0;class#GUI_01#0" />
+            <element signature="e#4371#4372#0" expanded="true" />
+            <element signature="e#4429#4430#0" expanded="true" />
+            <element signature="method#commonSetUp#0;class#GUI_01#0" />
+            <element signature="e#6426#6427#0" expanded="true" />
+            <element signature="e#6496#6497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fleschier/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fleschier/GUI_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2511">
+          <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#placeComponents#0;class#GUI_01#0" />
+            <element signature="method#choiceSetUp#0;class#GUI_01#0" />
+            <element signature="e#4371#4372#0" expanded="true" />
+            <element signature="e#4429#4430#0" expanded="true" />
+            <element signature="method#commonSetUp#0;class#GUI_01#0" />
+            <element signature="e#6426#6427#0" expanded="true" />
+            <element signature="e#6496#6497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fleschier/GUI_01.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#placeComponents#0;class#GUI_01#0" />
-            <element signature="e#1999#2000#0" expanded="true" />
-            <element signature="e#2046#2047#0" expanded="true" />
+            <element signature="method#choiceSetUp#0;class#GUI_01#0" />
+            <element signature="e#4371#4372#0" expanded="true" />
+            <element signature="e#4429#4430#0" expanded="true" />
+            <element signature="method#commonSetUp#0;class#GUI_01#0" />
+            <element signature="e#6426#6427#0" expanded="true" />
+            <element signature="e#6496#6497#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -289,8 +356,12 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#placeComponents#0;class#GUI_01#0" />
-            <element signature="e#1999#2000#0" expanded="true" />
-            <element signature="e#2046#2047#0" expanded="true" />
+            <element signature="method#choiceSetUp#0;class#GUI_01#0" />
+            <element signature="e#4371#4372#0" expanded="true" />
+            <element signature="e#4429#4430#0" expanded="true" />
+            <element signature="method#commonSetUp#0;class#GUI_01#0" />
+            <element signature="e#6426#6427#0" expanded="true" />
+            <element signature="e#6496#6497#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -316,20 +387,17 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#placeComponents#0;class#GUI_01#0" />
-            <element signature="e#1999#2000#0" expanded="true" />
-            <element signature="e#2046#2047#0" expanded="true" />
+            <element signature="method#choiceSetUp#0;class#GUI_01#0" />
+            <element signature="e#4371#4372#0" expanded="true" />
+            <element signature="e#4429#4430#0" expanded="true" />
+            <element signature="method#commonSetUp#0;class#GUI_01#0" />
+            <element signature="e#6426#6427#0" expanded="true" />
+            <element signature="e#6496#6497#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fleschier/图形部分_01.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/fleschier/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1242">
@@ -344,15 +412,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fleschier/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="99" column="35" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fleschier/GUI_01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="557">
+          <caret line="224" column="8" selection-start-line="224" selection-start-column="8" selection-end-line="224" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#placeComponents#0;class#GUI_01#0" />
-            <element signature="e#1999#2000#0" expanded="true" />
-            <element signature="e#2046#2047#0" expanded="true" />
+            <element signature="method#choiceSetUp#0;class#GUI_01#0" />
+            <element signature="e#4371#4372#0" expanded="true" />
+            <element signature="e#4429#4430#0" expanded="true" />
+            <element signature="method#commonSetUp#0;class#GUI_01#0" />
+            <element signature="e#6426#6427#0" expanded="true" />
+            <element signature="e#6496#6497#0" expanded="true" />
           </folding>
         </state>
       </provider>
