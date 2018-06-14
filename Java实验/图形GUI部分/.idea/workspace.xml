@@ -5,9 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bda28184-0951-4f16-93b7-cdc9f9b8b56a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/fleschier/GUI_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/AdvancedMathmatics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/Calsses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/DataStructure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/Java.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/Lesson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/Python.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01$6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/GUI_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/airCleaner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/elecDryer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/elecFan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/elecKettle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/elecMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/fleschier/myUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/图形GUI部分_01/com/myUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/fleschier/GUI_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fleschier/GUI_01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,18 +42,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GUI_01.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GUI_01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fleschier/GUI_01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="224" column="8" selection-start-line="224" selection-start-column="8" selection-end-line="224" selection-end-column="8" />
+            <state relative-caret-position="-1076">
+              <caret line="95" column="24" lean-forward="true" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#placeComponents#0;class#GUI_01#0" />
                 <element signature="method#choiceSetUp#0;class#GUI_01#0" />
                 <element signature="e#4371#4372#0" expanded="true" />
                 <element signature="e#4429#4430#0" expanded="true" />
-                <element signature="method#commonSetUp#0;class#GUI_01#0" />
                 <element signature="e#6426#6427#0" expanded="true" />
                 <element signature="e#6496#6497#0" expanded="true" />
               </folding>
@@ -39,11 +59,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fleschier/Main.java">
+      <file leaf-file-name="GUI_02.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/fleschier/GUI_02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="99" column="35" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="35" />
+            <state relative-caret-position="214">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#lessnSet#0;class#GUI_02#0" />
+                <element signature="e#1947#1948#0" expanded="true" />
+                <element signature="e#1982#1983#0" expanded="true" />
+                <element signature="e#2258#2259#0" expanded="true" />
+                <element signature="e#2306#2307#0" expanded="true" />
+                <element signature="e#2566#2567#0" expanded="true" />
+                <element signature="e#2602#2603#0" expanded="true" />
+                <element signature="method#commonSet#0;class#GUI_02#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/com/fleschier/Main.java" />
         <option value="$PROJECT_DIR$/src/com/Main.java" />
         <option value="$PROJECT_DIR$/src/com/fleschier/GUI_01.java" />
+        <option value="$PROJECT_DIR$/src/com/fleschier/GUI_02.java" />
       </list>
     </option>
   </component>
@@ -109,22 +141,7 @@
               <item name="图形GUI部分" type="b2602c69:ProjectViewProjectNode" />
               <item name="图形GUI部分" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="图形GUI部分" type="b2602c69:ProjectViewProjectNode" />
-              <item name="图形GUI部分" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="fleschier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="图形GUI部分" type="b2602c69:ProjectViewProjectNode" />
-              <item name="图形GUI部分" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fleschier" type="462c0819:PsiDirectoryNode" />
-              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -155,9 +172,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GUI_02">
     <configuration name="GUI_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fleschier.GUI_01" />
+      <module name="图形GUI部分_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fleschier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GUI_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fleschier.GUI_02" />
       <module name="图形GUI部分_01" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -208,8 +236,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.GUI_01" />
+      <item itemvalue="Application.GUI_02" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GUI_02" />
         <item itemvalue="Application.GUI_01" />
       </list>
     </recent_temporary>
@@ -229,12 +262,12 @@
       <workItem from="1528885202158" duration="663000" />
       <workItem from="1528893595526" duration="5940000" />
       <workItem from="1528947255783" duration="4205000" />
-      <workItem from="1528961201731" duration="3767000" />
+      <workItem from="1528961201731" duration="7562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19069000" />
+    <option name="totallyTimeSpent" value="22864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -283,11 +316,9 @@
           <caret line="68" selection-start-line="68" selection-end-line="68" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#placeComponents#0;class#GUI_01#0" />
             <element signature="method#choiceSetUp#0;class#GUI_01#0" />
             <element signature="e#4371#4372#0" expanded="true" />
             <element signature="e#4429#4430#0" expanded="true" />
-            <element signature="method#commonSetUp#0;class#GUI_01#0" />
             <element signature="e#6426#6427#0" expanded="true" />
             <element signature="e#6496#6497#0" expanded="true" />
           </folding>
@@ -307,11 +338,9 @@
           <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#placeComponents#0;class#GUI_01#0" />
             <element signature="method#choiceSetUp#0;class#GUI_01#0" />
             <element signature="e#4371#4372#0" expanded="true" />
             <element signature="e#4429#4430#0" expanded="true" />
-            <element signature="method#commonSetUp#0;class#GUI_01#0" />
             <element signature="e#6426#6427#0" expanded="true" />
             <element signature="e#6496#6497#0" expanded="true" />
           </folding>
@@ -324,11 +353,9 @@
           <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#placeComponents#0;class#GUI_01#0" />
             <element signature="method#choiceSetUp#0;class#GUI_01#0" />
             <element signature="e#4371#4372#0" expanded="true" />
             <element signature="e#4429#4430#0" expanded="true" />
-            <element signature="method#commonSetUp#0;class#GUI_01#0" />
             <element signature="e#6426#6427#0" expanded="true" />
             <element signature="e#6496#6497#0" expanded="true" />
           </folding>
@@ -355,11 +382,9 @@
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#placeComponents#0;class#GUI_01#0" />
             <element signature="method#choiceSetUp#0;class#GUI_01#0" />
             <element signature="e#4371#4372#0" expanded="true" />
             <element signature="e#4429#4430#0" expanded="true" />
-            <element signature="method#commonSetUp#0;class#GUI_01#0" />
             <element signature="e#6426#6427#0" expanded="true" />
             <element signature="e#6496#6497#0" expanded="true" />
           </folding>
@@ -386,11 +411,9 @@
           <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#placeComponents#0;class#GUI_01#0" />
             <element signature="method#choiceSetUp#0;class#GUI_01#0" />
             <element signature="e#4371#4372#0" expanded="true" />
             <element signature="e#4429#4430#0" expanded="true" />
-            <element signature="method#commonSetUp#0;class#GUI_01#0" />
             <element signature="e#6426#6427#0" expanded="true" />
             <element signature="e#6496#6497#0" expanded="true" />
           </folding>
@@ -421,17 +444,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fleschier/GUI_01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="224" column="8" selection-start-line="224" selection-start-column="8" selection-end-line="224" selection-end-column="8" />
+        <state relative-caret-position="-1076">
+          <caret line="95" column="24" lean-forward="true" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#placeComponents#0;class#GUI_01#0" />
             <element signature="method#choiceSetUp#0;class#GUI_01#0" />
             <element signature="e#4371#4372#0" expanded="true" />
             <element signature="e#4429#4430#0" expanded="true" />
-            <element signature="method#commonSetUp#0;class#GUI_01#0" />
             <element signature="e#6426#6427#0" expanded="true" />
             <element signature="e#6496#6497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fleschier/GUI_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#lessnSet#0;class#GUI_02#0" />
+            <element signature="e#1947#1948#0" expanded="true" />
+            <element signature="e#1982#1983#0" expanded="true" />
+            <element signature="e#2258#2259#0" expanded="true" />
+            <element signature="e#2306#2307#0" expanded="true" />
+            <element signature="e#2566#2567#0" expanded="true" />
+            <element signature="e#2602#2603#0" expanded="true" />
+            <element signature="method#commonSet#0;class#GUI_02#0" />
           </folding>
         </state>
       </provider>

@@ -23,15 +23,12 @@ public class GUI_01 {
         // 添加面板
         frame.add(panel);
 
-
-
         //生成第二个界面
         JFrame choice = new JFrame("欢迎选购家电！");
         choice.setSize(800,500);
         choice.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JPanel cPanel = new JPanel();
         choice.add(cPanel);
-
 
         //elecDryer页面
         JFrame elecDryer = new JFrame("吹风机信息");
@@ -78,17 +75,18 @@ public class GUI_01 {
         choiceSetUp(cPanel,elecDryer,elecFan,elecKettle,airCleaner);
         //信息页面设置
         commonSetUp(dPanel,"电吹风","白色","54","1000",purch);
+        commonSetUp(kPanel,"电水壶","不锈钢","210","1200",purch);
+        commonSetUp(fPanel,"电风扇","白色","80","120",purch);
+        commonSetUp(aPanel,"空气净化器","白色","3100","1200",purch);
         //购买结果页面设置
-
-
-
+        resultSet(res);
 
 
         // 设置界面可见
         frame.setVisible(true); //执行到这一个语句时才会产生界面
     }
 
-    private static void placeComponents(JPanel panel, JFrame choice) {
+    public static void placeComponents(JPanel panel, JFrame choice) {
 
         // 这边设置布局为 null
         panel.setLayout(null);
@@ -195,13 +193,13 @@ public class GUI_01 {
         JLabel sname = new JLabel("名称： "+name);
         sname.setBounds(50,70,300,40);
 
-        JLabel scolor = new JLabel("颜色:" + color);
+        JLabel scolor = new JLabel("颜色: " + color);
         scolor.setBounds(50,120,300,40);
 
-        JLabel pow = new JLabel("功率:" + power + "w");
+        JLabel pow = new JLabel("功率: " + power + " w");
         pow.setBounds(50,170,300,40);
 
-        JLabel pri = new JLabel("价格:" + price + "元");
+        JLabel pri = new JLabel("价格: " + price + " 元");
         pri.setBounds(50,220,300,40);
 
         JButton get = new JButton("立即购买");
@@ -222,10 +220,10 @@ public class GUI_01 {
     }
 
     private static void resultSet(JPanel res){
-        
+
         res.setLayout(null);
-        JButton succ = new JButton("购买成功!");
-        succ.setBounds(500,300,200,100);
+        JLabel succ = new JLabel("购买成功!");
+        succ.setBounds(150,80,100,40);
         res.add(succ);
     }
 
