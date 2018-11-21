@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52eb219c-ec22-4690-a8a6-c9d842fa248c" name="Default" comment="" />
+    <list default="true" id="f40ce022-f6c9-4111-8999-6a1d12f63d11" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,40 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="createEncryptedFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fleschier/createEncryptedFile.java">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Fleschier/Test/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decryption.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/fleschier/decryption.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IO部分.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IO部分.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="File.class" pinned="false" current-in-tab="false">
-        <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/io/File.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+            <state relative-caret-position="135">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -62,8 +33,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/fleschier/createEncryptedFile.java" />
-        <option value="$PROJECT_DIR$/src/com/fleschier/decryption.java" />
+        <option value="$PROJECT_DIR$/src/com/Fleschier/Test/test.java" />
       </list>
     </option>
   </component>
@@ -86,31 +56,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="IO部分" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IO部分" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IO部分" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IO部分" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IO部分" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IO部分" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fleschier" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,28 +106,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.decryption">
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="createEncryptedFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fleschier.createEncryptedFile" />
-      <module name="IO部分" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Fleschier.Test.test" />
+      <module name="Java_Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fleschier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="decryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fleschier.decryption" />
-      <module name="IO部分" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fleschier.*" />
+          <option name="PATTERN" value="com.Fleschier.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,14 +159,9 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="Application.createEncryptedFile" />
-      <item itemvalue="Application.decryption" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.decryption" />
-        <item itemvalue="Application.createEncryptedFile" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -216,47 +170,47 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="52eb219c-ec22-4690-a8a6-c9d842fa248c" name="Default" comment="" />
-      <created>1528982573407</created>
+      <changelist id="f40ce022-f6c9-4111-8999-6a1d12f63d11" name="Default" comment="" />
+      <created>1529677894681</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528982573407</updated>
-      <workItem from="1528982576943" duration="5438000" />
+      <updated>1529677894681</updated>
+      <workItem from="1529677902038" duration="3699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5438000" />
+    <option name="totallyTimeSpent" value="3699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.22021277" />
+      <window_info anchor="bottom" id="Messages" weight="0.32978722" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3074468" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13854167" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -268,54 +222,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IO_test.txt">
+    <entry file="file://$PROJECT_DIR$/src/com/Fleschier/Test/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/io/FileNotFoundException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/io/FileInputStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/io/File.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IO部分.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fleschier/createEncryptedFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fleschier/decryption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
